@@ -23,7 +23,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]([../../issues/](https://github.com/MagdalenaMW/MySQL-Project_Restaurant-Orders-/issues)).
+Feel free to check the [issues page](https://github.com/MagdalenaMW/MySQL-Project_Restaurant-Orders-/issues)
 
 ## Show your support
 
