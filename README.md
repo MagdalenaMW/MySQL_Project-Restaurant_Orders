@@ -1,11 +1,10 @@
 ## Restaurant Orders
 
-> In this project, I used a relational database and PostgreSQL to create the initial data structure for a vet clinic. I created a table to store animals' information, insert some data into it, and query it.
-
+In this project I used a database to analyze customer behaviour for a restaurant.
 
 ## Getting Started
 
-This repository includes files with plain SQL that can be used to recreate a database:
+This repository contains plain SQL files that can be used to recreate a database::
 
 - Use [db.sql](https://github.com/MagdalenaMW/MySQL-Project_Restaurant-Orders-/blob/main/create_restaurant_db.sql) to create all tables,
 - Use [data.sql](https://github.com/MagdalenaMW/MySQL-Project_Restaurant-Orders-/blob/main/Explore%20the%20orders%20table.sql) to explore the orders,
