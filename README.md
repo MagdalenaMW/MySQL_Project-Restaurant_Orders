@@ -15,7 +15,7 @@ This repository contains SQL files that can be used to recreate a database:
 
 👤 **MagdalenaMW**
 
-- GitHub: [https://github.com/MagdalenaMW}
+- GitHub: [Click here](https://github.com/MagdalenaMW)
 - LinkedIn: [www.linkedin.com/in/magdalena-marszałek-wasilewska]
 
 ## 🤝 Contributing
