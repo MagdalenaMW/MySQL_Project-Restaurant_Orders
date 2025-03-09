@@ -16,11 +16,11 @@ This repository contains SQL files that can be used to recreate a database:
 👤 **MagdalenaMW**
 
 - GitHub: [Click here](https://github.com/MagdalenaMW)
-- LinkedIn: [www.linkedin.com/in/magdalena-marszałek-wasilewska]
+- LinkedIn: [Click here](www.linkedin.com/in/magdalena-marszałek-wasilewska)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, questions and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/MagdalenaMW/MySQL-Project_Restaurant-Orders-/issues)
 
@@ -29,4 +29,4 @@ Feel free to check the [issues page](https://github.com/MagdalenaMW/MySQL-Projec
 Give a ⭐️ if you like this project!
 
 ## 📝 License
-This DB comes from https://mavenanalytics.io/data-playground?pageSize=10 
+This DB comes from [MAVEN Analytics](https://mavenanalytics.io/data-playground?pageSize=10) 
