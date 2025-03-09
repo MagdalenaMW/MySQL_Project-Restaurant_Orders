@@ -7,10 +7,10 @@
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
+- Use [db.sql](https://github.com/MagdalenaMW/MySQL-Project_Restaurant-Orders-/blob/main/create_restaurant_db.sql) to create all tables,
+- Use [data.sql](https://github.com/MagdalenaMW/MySQL-Project_Restaurant-Orders-/blob/main/Explore%20the%20orders%20table.sql) to explore the orders,
+- Use [data.sql](https://github.com/MagdalenaMW/MySQL-Project_Restaurant-Orders-/blob/main/Explore%20the%20items%20table.sql) to explore the items,
+- Use [data.sql](https://github.com/MagdalenaMW/MySQL-Project_Restaurant-Orders-/blob/main/Analyze%20customer%20behavior.sql) to analyze customer behavior.
 
 ## Author
 
