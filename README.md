@@ -15,9 +15,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
 ## Author
 
 👤 **MAgdalenaMW**
-(
+
 - GitHub: [https://github.com/MagdalenaMW}
-- LinkedIn: [LinkedIn](www.linkedin.com/in/magdalena-marszałek-wasilewska)}
+- LinkedIn: [www.linkedin.com/in/magdalena-marszałek-wasilewska]
 
 ## 🤝 Contributing
 
