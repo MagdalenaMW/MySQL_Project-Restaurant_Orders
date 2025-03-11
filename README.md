@@ -4,8 +4,7 @@ In this project I used a database to analyze customer behaviour for a restaurant
 
 ## Getting Started
 
-This repository contains SQL files that can be used to recreate a database:
-- Use [db.sql](https://github.com/MagdalenaMW/MySQL-Project_Restaurant-Orders-/blob/main/create_restaurant_db.sql) to create all tables,
+This repository contains [SQL file](https://github.com/MagdalenaMW/MySQL-Project_Restaurant-Orders-/blob/main/create_restaurant_db.sql) that can be used to recreate a database.
 
 ## Tasks
 EXPLORE THE ITEMS
